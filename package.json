@@ -1,9 +1,10 @@
 {
+  "homepage": "http://sanky20.github.io/shopping-website",
   "name": "vite-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://sanky20.github.io/shopping-website",
+
   "scripts": {
     "dev": "vite",
     "build": "vite build",
